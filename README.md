@@ -4,7 +4,7 @@ Real estate acquisitions analyst and MSRE student at NYU Schack (Real Estate Fin
 
 **Portfolio site: [tommyrobins91.github.io](https://tommyrobins91.github.io)**
 
-This page collects the tools, models and research I've built. Each project has its own repo covering the problem, what I built, and what it found. Two have live demos.
+This page collects the tools, models and research I've built. Each project has its own repo or page covering the problem, what I built, and what it found. Three have live demos.
 
 ## Data tools and automation
 
@@ -24,6 +24,10 @@ This page collects the tools, models and research I've built. Each project has i
 | [Northmark Intelligence](https://github.com/tommyrobins91/tommyrobins91/tree/main/projects/northmark-intelligence) | Canadian CRE market research venture: GTA market brief, AI adoption strategy deck for a PE real estate firm, residential comp tracking |
 
 ## Development and coursework (NYU Schack)
+
+| Project | Summary |
+|---|---|
+| [U.S. state population explorer](https://tommyrobins91.github.io/projects/state-population.html) | [Live demo](https://tommyrobins91.github.io/demos/state-population/). A class assignment turned into an interactive dashboard: one CSV in, a full census briefing from 1790 to 2025 out |
 
 [Selected projects](https://github.com/tommyrobins91/tommyrobins91/tree/main/projects/schack-development-coursework): ground-up transit-oriented development in Jamaica, Queens; office-to-residential conversion of 219-235 E 42nd St; CMBS investment committee memo; StuyTown case study; 42nd Street value capture analysis.
 
