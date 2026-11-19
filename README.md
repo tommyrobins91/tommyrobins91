@@ -2,6 +2,8 @@
 
 Real estate acquisitions analyst and MSRE student at NYU Schack (Real Estate Finance and Investment, May 2027). I work on value-add industrial acquisitions in Florida at Anchor Capital Group, and I build data tools that make the sourcing and underwriting work faster.
 
+**Portfolio site: [tommyrobins91.github.io](https://tommyrobins91.github.io)**
+
 This page collects the tools, models and research I've built. Each project has its own repo covering the problem, what I built, and what it found. Two have live demos.
 
 ## Data tools and automation
