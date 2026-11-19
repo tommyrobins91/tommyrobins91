@@ -11,7 +11,7 @@ All deals run on the firm's 39-tab acquisitions model. Deal-specific numbers are
 ## What I've learned from the work
 
 - **Entry price drives IRR more than anything else** on small-bay value-add. Rent growth assumptions rarely save a deal bought too high.
-- **Negative leverage is common** at current rates, so many deals only work on a levered basis after rents reset.
+- **Negative leverage is common** at current rates. Debt costs more than the going-in yield, so the deal depends on rents resetting at rollover.
 - **In sale-leasebacks, lease term is the key variable.** A short term makes the seller's offered cap rate meaningless.
 - **Contract assignment.** On one Orlando deal the investor bid didn't meet the target price, so I moved assignment outreach to owner-users, who value the building differently.
 
